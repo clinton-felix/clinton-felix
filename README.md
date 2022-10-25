@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @clinton-felix
-- 👀 I’m interested in building solutions in Django, blockchain software development, NFTs, DeFi, ethereum smart contracts (solidity), react.js and node.js
-- 🌱 I’m constantly learning
+- 👀 I’m interested in building solutions in Web3, Golang, Rust, Solidity, Node.js, Next.js etc. 
+- I am currently heavily invested in the web3 and blockchain ecosystem.
+- Interested in building and having more conversations in NFTs, DeFi, Dapps and Smartcontracts.
 - 💞️ I’m looking to collaborate on blockchain related projects
 - 📫 How to reach me: leave a message on github.
 
